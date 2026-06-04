@@ -1,0 +1,12 @@
+order_id,customer_name,region,product_category,order_date,quantity,unit_price,total_amount,status
+1001,Alice Smith,Queensland,Laptop,2026-01-05,1,1450.00,1450.00,Completed
+1002,Bob Jones,Victoria,Monitor,2026-01-06,2,320.00,640.00,Completed
+1003,Charlie Brown,New South Wales,Keyboard,2026-01-07,3,85.00,255.00,Completed
+1004,Diana Green,Queensland,Mouse,2026-01-08,2,45.00,90.00,Cancelled
+1005,Ethan White,Victoria,Laptop,2026-01-09,1,1550.00,1550.00,Completed
+1006,,Queensland,Monitor,2026-01-10,1,310.00,310.00,Pending
+1007,Grace Lee,Western Australia,Keyboard,2026-01-11,4,80.00,320.00,Completed
+1008,Henry Wilson,Victoria,Mouse,2026-01-12,2,50.00,100.00,Completed
+1008,Henry Wilson,Victoria,Mouse,2026-01-12,2,50.00,100.00,Completed
+1009,Ivy Chen,Queensland,Laptop,2026-01-13,1,,1490.00,Pending
+1010,Jack Martin,New South Wales,Monitor,2026-01-14,2,330.00,660.00,Completed
